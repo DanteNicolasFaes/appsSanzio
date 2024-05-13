@@ -1,0 +1,17 @@
+{
+    "name": "sanzio-backend",
+    "version": "0.0.1",
+    "description": "Servidor para crud de Sanzio",
+    "main": "app.js",
+    "scripts": {
+      "test": "echo \"La concha de tu madre\" && exit 1",
+      "start": "nodemon app.js"
+    },
+    "keywords": [],
+    "author": "Dante Faes",
+    "license": "MIT",
+    "dependencies": {
+      "express": "^4.19.2"
+    }
+  }
+  
